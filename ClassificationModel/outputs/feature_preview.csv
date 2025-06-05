@@ -1,4 +1,4 @@
-Keyword,Keyword_Length_Score,Search_Volume_Capped,Search_Volume_Log,Search_Volume_Scaled,Ranking Difficulty Score,Ranking Difficulty Scaled,Total Monthly Clicks Filled,Total Monthly Clicks Capped,Total Monthly Clicks Log,Total Monthly Clicks Scaled,Broad CPC Score,Is Question Flag,NSFW Score
+Keyword,Keyword_Length_Score,Search_Volume_Capped,Search_Volume_Log,Search_Volume_Scaled,Ranking Difficulty Score,Ranking Difficulty Scaled,Total Monthly Clicks Filled,Total Monthly Clicks Capped,Total Monthly Clicks Log,Total Monthly Clicks Scaled,Broad CPC Score,Is Question Score,NSFW Score
 sales funnel,0,1400.0,7.244941546337007,1.0,55.0,0.55,6400.0,1000.0,6.90875477931522,1.0,0,0,1
 sales funnel template,1,1400.0,7.244941546337007,1.0,75.0,0.75,900.0,900.0,6.803505257608338,0.9847657754445129,0,0,1
 what is a sales funnel,3,1200.0,7.0909098220799835,0.9787394110398447,64.0,0.64,810.0,810.0,6.698268054115413,0.9695333338751574,1,1,1
